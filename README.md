@@ -2,7 +2,7 @@
 <h3 align="center">A Backend Developer:</h3>
 
 <img align = "right" alt = "coding"  width = "400"  src = "https://media4.giphy.com/media/TElVR7Kr6J4kRobiBY/giphy.gif?cid=ecf05e47u42dl5rr17oeumajp6aagzrq4whifgrhq7iaaacr&ep=v1_gifs_search&rid=giphy.gif&ct=g">
-- 🔭 I’m currently working on [RMS_poc](https://github.com/IrfanAhmadNKatarki/RMS_poc)
+- 🔭 I’m currently working on [RMS_poc](https://github.com/IrfanAhmadNKatarki/ShehriTibTab)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
